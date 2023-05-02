@@ -1,5 +1,6 @@
 //Importación de los estilos
 import './css/styles.css';
+
 //Importación de la función que almacena el array de paises de la API
 import { fetchCountries } from './fetchCountries';
 
